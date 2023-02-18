@@ -1,0 +1,28 @@
+body {
+    background-color: #f8f4e5 !important;
+}
+
+.spinner {
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.spinner img {
+    display: block;
+    margin: 10% auto;
+}
+
+.landing {
+    background: white url("https://media.istockphoto.com/id/1311934969/photo/contact-us.jpg?s=612x612&w=0&k=20&c=_vmYyAX0aFi-sHH8eYS-tLLNfs1ZWXnNB8M7_KWwhgg=") no-repeat scroll center;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+
+.wrapper {
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100%;
+}
